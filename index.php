@@ -16,7 +16,7 @@
 <body>
 <div style="margin-top: 20px;padding-bottom: 20px;">
     <center>
-        <img width="100" src="https://codingbirdsonline.com/wp-content/uploads/2019/12/cropped-coding-birds-favicon-2-1-192x192.png"/>
+        <img width="100" src="https://zangticsdigital.com/storage/web-logo-rr-1.png"/>
         <h3>Delete multiple records from database using PHP </h3>
     </center>
 </div>
